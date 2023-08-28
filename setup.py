@@ -8,7 +8,7 @@ setup(
                      "language.",
     author="Anton Timofeev",
     author_email="aatimofeev@hse.ru",
-    url="https://github.com/aatimofeev/spacy_russian_tokenizer/",
+    url="https://github.com/issekifora/spacy_russian_tokenizer/",
     keywords="natural language processing russian tokenizer tokeniser",
     packages=['spacy_russian_tokenizer', 'spacy_russian_tokenizer.patterns'],
     install_requires=['spacy'],
